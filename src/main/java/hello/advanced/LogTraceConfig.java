@@ -1,4 +1,4 @@
-package hello.advanced.trace;
+package hello.advanced;
 
 import hello.advanced.trace.logtrace.FieldLogTrace;
 import hello.advanced.trace.logtrace.LogTrace;
